@@ -1,0 +1,105 @@
+Index: blog-starter-app/package.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n  \"private\": true,\r\n  \"scripts\": {\r\n    \"dev\": \"next\",\r\n    \"build\": \"next build\",\r\n    \"start\": \"next start\",\r\n    \"typecheck\": \"tsc\"\r\n  },\r\n  \"dependencies\": {\r\n    \"classnames\": \"^2.3.1\",\r\n    \"date-fns\": \"^2.28.0\",\r\n    \"gray-matter\": \"^4.0.3\",\r\n    \"next\": \"latest\",\r\n    \"react\": \"^18.2.0\",\r\n    \"react-dom\": \"^18.2.0\",\r\n    \"remark\": \"^14.0.2\",\r\n    \"remark-html\": \"^15.0.1\",\r\n    \"typescript\": \"^4.7.4\"\r\n  },\r\n  \"devDependencies\": {\r\n    \"@types/node\": \"^18.0.3\",\r\n    \"@types/react\": \"^18.0.15\",\r\n    \"@types/react-dom\": \"^18.0.6\",\r\n    \"autoprefixer\": \"^10.4.7\",\r\n    \"postcss\": \"^8.4.14\",\r\n    \"tailwindcss\": \"^3.1.4\"\r\n  }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/blog-starter-app/package.json b/blog-starter-app/package.json
+--- a/blog-starter-app/package.json	(revision 2845b629290ae6628ece4c90d3a36c47b75f3f08)
++++ b/blog-starter-app/package.json	(date 1703581314098)
+@@ -24,5 +24,6 @@
+     "autoprefixer": "^10.4.7",
+     "postcss": "^8.4.14",
+     "tailwindcss": "^3.1.4"
+-  }
++  },
++
+ }
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"512e1eae-a1bc-4a09-9a42-8fcf6a3f69bf\" name=\"변경\" comment=\"next js 수정\">\r\n      <change afterPath=\"$PROJECT_DIR$/blog-starter-app/_posts/preview1.md\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.github/workflows/nextjs.yml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.github/workflows/nextjs.yml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;dooftac712091&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"7944388e-0b79-42b5-bff5-ca19c6c2f870\" />\r\n        <option name=\"url\" value=\"https://github.com/dooftac712091/dooftac712091.github.io.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2a3vS2s98crWNc5tNi31G786poM\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"DefaultHtmlFileTemplate\": \"HTML File\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"gh-pages\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/dooft/OneDrive/문서/GitHub/dooftac712091.github.io/blog-starter-app/_posts\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"ts.external.directory.path\": \"C:\\\\Users\\\\dooft\\\\OneDrive\\\\문서\\\\GitHub\\\\dooftac712091.github.io\\\\blog-starter-app\\\\node_modules\\\\typescript\\\\lib\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\dooft\\OneDrive\\문서\\GitHub\\dooftac712091.github.io\\blog-starter-app\\_posts\" />\r\n      <recent name=\"C:\\Users\\dooft\\OneDrive\\문서\\GitHub\\dooftac712091.github.io\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\dooft\\OneDrive\\문서\\GitHub\\dooftac712091.github.io\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"애플리케이션 수준\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"디폴트 작업\">\r\n      <changelist id=\"512e1eae-a1bc-4a09-9a42-8fcf6a3f69bf\" name=\"변경\" comment=\"\" />\r\n      <created>1703560074365</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1703560074365</updated>\r\n      <workItem from=\"1703560075922\" duration=\"6787000\" />\r\n      <workItem from=\"1703567680159\" duration=\"3000\" />\r\n      <workItem from=\"1703567703797\" duration=\"622000\" />\r\n      <workItem from=\"1703576399038\" duration=\"1068000\" />\r\n      <workItem from=\"1703577784144\" duration=\"2673000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"next.js 사용\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703565252851</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703565252851</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"next.js 사용\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703565265421</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703565265421</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"next js 수정\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703565751526</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703565751526</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"next js 수정\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703567719033</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703567719033</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"next js 수정\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703577343794</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703577343794</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"next js 수정\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703578753640</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703578753640</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"next.js 사용\" />\r\n    <MESSAGE value=\"next js 수정\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"next js 수정\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2845b629290ae6628ece4c90d3a36c47b75f3f08)
++++ b/.idea/workspace.xml	(date 1703581363332)
+@@ -5,9 +5,9 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="512e1eae-a1bc-4a09-9a42-8fcf6a3f69bf" name="변경" comment="next js 수정">
+-      <change afterPath="$PROJECT_DIR$/blog-starter-app/_posts/preview1.md" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.github/workflows/nextjs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/nextjs.yml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.github/main.yml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/blog-starter-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog-starter-app/package.json" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -92,7 +92,7 @@
+       <workItem from="1703567680159" duration="3000" />
+       <workItem from="1703567703797" duration="622000" />
+       <workItem from="1703576399038" duration="1068000" />
+-      <workItem from="1703577784144" duration="2673000" />
++      <workItem from="1703577784144" duration="3346000" />
+     </task>
+     <task id="LOCAL-00001" summary="next.js 사용">
+       <option name="closed" value="true" />
+@@ -142,7 +142,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1703578753640</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="next js 수정">
++      <option name="closed" value="true" />
++      <created>1703580975827</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1703580975827</updated>
++    </task>
++    <task id="LOCAL-00008" summary="next js 수정">
++      <option name="closed" value="true" />
++      <created>1703580990232</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1703580990232</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+Index: .github/main.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.github/main.yml b/.github/main.yml
+new file mode 100644
+--- /dev/null	(date 1703581457146)
++++ b/.github/main.yml	(date 1703581457146)
+@@ -0,0 +1,20 @@
++name: Github Pages Deploy
++
++on:
++  push:
++    branches:
++      - github-pages
++
++jobs:
++  build-and-deploy:
++    runs-on: ubuntu-latest
++    - steps: Checkout
++      uses : actions/checkout@v3
++
++    - name : Install and Build
++      run :
++        npm install
++        npm build && touch ./out ./nojekyll
++
++    - name : deploy
++      uses : J
+\ No newline at end of file
