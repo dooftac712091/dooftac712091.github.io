@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="512e1eae-a1bc-4a09-9a42-8fcf6a3f69bf" name="변경" comment="next js 수정" />
+    <list default="true" id="512e1eae-a1bc-4a09-9a42-8fcf6a3f69bf" name="변경" comment="next js 수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +39,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/dooft/OneDrive/문서/GitHub/dooftac712091.github.io&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -64,6 +67,8 @@
       <updated>1703560074365</updated>
       <workItem from="1703560075922" duration="6787000" />
       <workItem from="1703567680159" duration="3000" />
+      <workItem from="1703567703797" duration="622000" />
+      <workItem from="1703576399038" duration="612000" />
     </task>
     <task id="LOCAL-00001" summary="next.js 사용">
       <option name="closed" value="true" />
@@ -89,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703565751526</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="next js 수정">
+      <option name="closed" value="true" />
+      <created>1703567719033</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703567719033</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
